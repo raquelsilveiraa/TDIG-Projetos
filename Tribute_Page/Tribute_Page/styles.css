@@ -1,0 +1,31 @@
+html{
+    font-family: sans-serif;
+    text-align: center;
+    display: block;
+}
+
+#texto{
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+#main{
+    background-color: #d4d4d4;
+}
+#image {
+    margin: 20px 40px;
+    
+}
+#img-background, #image{
+    max-width: 100%;
+    background-color: white;
+    margin: auto;
+    padding: auto;
+    display: block;
+    height: auto;
+}
+
+
+li {
+    margin: 20px 0;
+}
