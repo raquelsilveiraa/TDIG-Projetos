@@ -1,0 +1,45 @@
+html{
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#titulo, #descricao{
+    text-align: center;
+
+}
+
+body{
+    background-image: url("imagem_roxa.jpg");
+    font-family: sans-serif;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #45b6eb;
+    color: #fff;
+    font-size: 1.5vw;
+    width: 50%;
+    height: auto;
+    margin-left: 350px;
+}
+
+#survey-form{
+    background-color: rebeccapurple;
+    padding: 3rem 2.5rem;
+    border-radius: 30px;
+    align-content: left;
+    width: 100%;
+    border: none;
+}
+
+main{
+    background-color: purple;
+}
+
+#submit {
+    background: #008000;
+    color: #fff;
+    padding: .7rem;
+    font-size: 1.15rem;
+    cursor: pointer;
+  }
